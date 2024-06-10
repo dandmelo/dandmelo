@@ -25,7 +25,7 @@
 <!---<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAlvarez&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" /> -->
 ![dandmelo GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dandmelo&show_icons=true&theme=gotham)
 
-
+<!-- GithubGraph -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dandmelo&theme=vue&bg_color=000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🔥 Skills
