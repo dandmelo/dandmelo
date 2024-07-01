@@ -49,6 +49,7 @@
     <img align="center" alt="Visualstudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />          
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" alt="Pycharm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
+    <img align="center" alt="Pycharm" height="30" width="40" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" />
           
   </div>
 
